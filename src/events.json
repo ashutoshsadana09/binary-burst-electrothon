@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Workshop on Cloud Computing by Vibhav",
+    "start": "2024-02-08T16:00:00",
+    "end": "2024-02-08T17:00:00",
+    "location": "New Lecture Hall",
+    "description": "A beginner-friendly workshop on cloud computing.",
+    "image": "https://imgvb.com/images/2024/03/06/85a3842502c6d65a62266415be936bee.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Workshop on VISSIM Software",
+    "start": "2024-02-09T16:00:00",
+    "end": "2024-02-09T17:00:00",
+    "location": "New Lecture Hall",
+    "description": "A beginner-friendly workshop on VISSIM Software",
+    "image": "https://imgvb.com/images/2024/03/06/8e292293f023fdf7b88653d731376d46.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Workshop on opencv by Matcom",
+    "start": "2024-02-12T16:00:00",
+    "end": "2024-02-12T17:00:00",
+    "location": "Lecture Hall",
+    "description": "A beginner-friendly workshop on opencv.",
+    "image": "https://imgvb.com/images/2024/03/06/bd5371cacf05ae9e5bd780cb77b8f86c.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Electrothon 6.0",
+    "start": "2024-03-08T16:00:00",
+    "end": "2024-03-10T17:00:00",
+    "location": "New Lecture Hall",
+    "description": "An open hackathon for students to showcase their skills and build connections.",
+    "image": "https://imgvb.com/images/2024/03/09/1beb259c9d75294c636b9f5942edd26d.jpg"
+  }
+]

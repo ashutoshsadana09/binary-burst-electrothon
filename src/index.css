@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+.typing::after {
+  content: '|';
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  50% { color: transparent; }
+}
+
+.rbc-day-bg  {
+  background-color: #ffffff !important;
+}
+
+
+.rbc-event{
+  background-color: #9c9c9cd1;
+}
+
+.rbc-header, .rbc-btn-group{
+  background-color: #ffffff !important; 
+}
+/* .rbc-event-content{
+  background-color: #9c9c9c !important;
+  color: #fff !important;
+
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato&family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap')
+
